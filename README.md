@@ -6,3 +6,5 @@ This is the repository for the activiti III
 
 - Added the basic structure ot the html file.
 - Added footer and header.
+- Added images for content section.
+- Added content and menu.
