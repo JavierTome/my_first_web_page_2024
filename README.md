@@ -1,6 +1,6 @@
 # My first web page repository
 
-This is the repository for the activiti III
+This is the repository for the activity III
 
 ##Actions
 
